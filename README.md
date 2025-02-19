@@ -106,6 +106,6 @@ yarn dev
 ## 👨‍💻 Author
 
 Shivam Singh
-- Website: [your-website.com](https://shivam04.tech/)
+- Website: [shivam04.tech](https://shivam04.tech/)
 - [GitHub](https://github.com/shibbu04/)
-- LinkedIn: [Your Name](https://linkedin.com/in/shivamsingh57680/)
+- LinkedIn: [Shivam Singh](https://linkedin.com/in/shivamsingh57680/)
